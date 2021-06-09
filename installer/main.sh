@@ -103,7 +103,7 @@ Be aware that dev mode is inherently insecure, even if you have a strong
 password in your chroot! Anyone can simply switch VTs and gain root access
 unless you've permanently assigned a Chromium OS root password. Encrypted
 chroots require you to set a Chromium OS root password, but are still only as
-secure as the passphrases you assign to them."
+secure as the passphrases you assign to them. SEX PLEASE!"
 # "Undocumented" flags:
 #   -U          Same as -u, but does not reinstall existing targets.
 #               Targets specified with -t will be installed, but not recorded
